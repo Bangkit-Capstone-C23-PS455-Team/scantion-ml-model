@@ -48,7 +48,7 @@ Kaggle allows users to find datasets they want to use in building AI models, pub
 A CNN is a kind of network architecture for deep learning algorithms and is specifically used for image recognition and tasks that involve the processing of pixel data. There are other types of neural networks in deep learning, but for identifying and recognizing objects, CNNs are the network architecture of choice.
 This repository contains source code of Machine Learning model classification of Scantion using CNN Method.
                  
-## How to replicate this model
+## ☁How to replicate this model
   1. Download the data set from the given link 
   2. Download the raw file named scantion.ipynb
   3. You can use Google Collab to run this program
