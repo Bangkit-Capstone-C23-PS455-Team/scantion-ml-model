@@ -20,7 +20,15 @@ The Jupyter Notebook is an open source web application that you can use to creat
 Kaggle allows users to find datasets they want to use in building AI models, publish datasets, work with other data scientists and machine learning engineers, and enter competitions to solve data science challenges.
 
 Our team use kaggle to find our [Melanoma Datasets](https://www.kaggle.com/datasets/surajghuwalewala/ham1000-segmentation-and-classification)
-Here is the dataset file that we used for this classification, [click](https://drive.google.com/file/d/1ryOUuz1d6o-aUux6RK1bJkVPoDl40FBK/view?usp=sharing)
+
+Here is the dataset file that we used for this classification, [click](https://drive.google.com/file/d/1ryOUuz1d6o-aUux6RK1bJkVPoDl40FBK/view?usp=sharing).
   
 ## How to replicate this model
+  1. Download the data set from the given link 
+  2. Download the raw file named scantion.ipynb
+  3. You can use Google Collab to run this program
+  4. Wait until the process is done ( cleaning datasets, build the model, and train the model)
+  5. After that the classification of the dataset will appear into several subclasses
+  6. To avoid overfitting, you can try a trial and error approach by varying the number of learning rate or datasets used (not necessarily using all of them) and observing the corresponding loss and accuracy metrics.
+  7. Once you achieve an optimal balance of loss and accuracy, you can consider the task complete.
   
